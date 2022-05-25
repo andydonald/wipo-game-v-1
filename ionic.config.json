@@ -1,0 +1,8 @@
+{
+  "name": "WIPO GAME v1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "04c77b14"
+}
